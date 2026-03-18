@@ -1,4 +1,5 @@
 # NovaSync 🚀
+https://landing-page-ivory-nine-96.vercel.app
 
 **English** | [العربية](#novasync--1)
 
