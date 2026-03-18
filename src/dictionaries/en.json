@@ -1,0 +1,61 @@
+{
+  "navigation": {
+    "about": "About",
+    "features": "Features",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Data Infrastructure for the AI Era",
+    "subtitle": "Process terabytes in seconds, not hours. Unlock the true potential of your data with our next-generation cloud architecture.",
+    "ctaPrimary": "Start Free Trial",
+    "ctaSecondary": "View Documentation"
+  },
+  "features": {
+    "title": "Built for scale, designed for speed",
+    "subtitle": "Everything you need to build intelligent applications faster.",
+    "items": [
+      {
+        "title": "Real-time Processing",
+        "description": "Stream and analyze data as it arrives with sub-millisecond latency."
+      },
+      {
+        "title": "Bank-grade Security",
+        "description": "End-to-end encryption with advanced compliance certifications."
+      },
+      {
+        "title": "Global Edge Network",
+        "description": "Deploy closer to your users for unprecedented performance."
+      }
+    ]
+  },
+  "about": {
+    "title": "Our Mission",
+    "content": "Founded by engineers from top tech companies, our mission is to democratize access to advanced data infrastructure. We believe that every company should have the power to build AI-driven applications seamlessly."
+  },
+  "testimonials": {
+    "title": "Trusted by engineering teams worldwide",
+    "items": [
+      {
+        "quote": "This platform completely transformed our data pipeline. We reduced processing time by 80%.",
+        "author": "Sarah Jenkins",
+        "role": "VP of Engineering, Acme Corp"
+      },
+      {
+        "quote": "The easiest infrastructure we've ever set up. The developer experience is unmatched.",
+        "author": "David Chen",
+        "role": "CTO, NextGen Startups"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ready to transform your infrastructure?",
+    "subtitle": "Join thousands of developers building the future.",
+    "emailPlaceholder": "Enter your work email",
+    "submit": "Get Early Access"
+  },
+  "footer": {
+    "copyright": "© 2026 NovaSync Technologies. All rights reserved."
+  }
+}
