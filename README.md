@@ -5,8 +5,6 @@ https://landing-page-ivory-nine-96.vercel.app
 
 NovaSync is a modern, high-performance landing page for a fictional "Data Infrastructure for the AI Era" platform. It is fully responsive, supports seamless Dark/Light mode toggling, and includes internationalization (i18n) for both English and Arabic out of the box.
 
-Designed and developed by **Emad Kamel Ayad**.
-
 ## 🌟 Features
 
 - **Next.js App Router**: State-of-the-art React framework.
